@@ -1,0 +1,8 @@
+.Dog {
+    width: 160px;
+    height: 160px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: space-between;
+}

@@ -1,0 +1,12 @@
+.Block {
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+    background-color: white;
+}
+
+.Block .dog{
+    width: 52px;
+    height: 52px;
+    border-radius: 50%;
+}
