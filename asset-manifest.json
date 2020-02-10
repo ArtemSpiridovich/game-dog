@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/game-dog/static/css/main.d509e602.chunk.css",
+    "main.js": "/game-dog/static/js/main.dfc9a5ca.chunk.js",
+    "main.js.map": "/game-dog/static/js/main.dfc9a5ca.chunk.js.map",
+    "runtime-main.js": "/game-dog/static/js/runtime-main.bb53cfbd.js",
+    "runtime-main.js.map": "/game-dog/static/js/runtime-main.bb53cfbd.js.map",
+    "static/js/2.c00d48ca.chunk.js": "/game-dog/static/js/2.c00d48ca.chunk.js",
+    "static/js/2.c00d48ca.chunk.js.map": "/game-dog/static/js/2.c00d48ca.chunk.js.map",
+    "index.html": "/game-dog/index.html",
+    "precache-manifest.da9f5dfc9c86e5ce93923c74ae9aa9f6.js": "/game-dog/precache-manifest.da9f5dfc9c86e5ce93923c74ae9aa9f6.js",
+    "service-worker.js": "/game-dog/service-worker.js",
+    "static/css/main.d509e602.chunk.css.map": "/game-dog/static/css/main.d509e602.chunk.css.map",
+    "static/js/2.c00d48ca.chunk.js.LICENSE": "/game-dog/static/js/2.c00d48ca.chunk.js.LICENSE",
+    "static/media/dog.mp3": "/game-dog/static/media/dog.75fa68d4.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb53cfbd.js",
+    "static/js/2.c00d48ca.chunk.js",
+    "static/css/main.d509e602.chunk.css",
+    "static/js/main.dfc9a5ca.chunk.js"
+  ]
+}
